@@ -1,0 +1,86 @@
+@import url('https://cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css');
+
+* {
+    border-width: 0;
+    font-family: 'Hack', sans-serif;
+}
+
+body {
+    background-color: #0c0c0c;
+    color: #ccc;
+    height: 98vh;
+}
+
+a {
+    color: #ccc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+form {
+    display: flex;
+    align-items: center;
+}
+
+input {
+    background-color: #0c0c0c;
+    flex-grow: 1;
+    outline: none;
+    font-weight: 300;
+    caret-color: #f9f1a5;
+    color: #f9f1a5;
+    font-family: 'Hack';
+    font-size: 18px;
+    margin-left: .5rem;
+}
+
+.welcome {
+    margin-top: 0.1rem!important;
+}
+
+.command {
+    font-weight: 300;
+    caret-color: #f9f1a5;
+    color: #f9f1a5;
+    font-family: 'Hack';
+    font-size: 18px;
+}
+
+.user-input {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.error { 
+    color: #e74856;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.logo {
+    color: #3b78ff;
+}
+
+.logo-invisible {
+    filter: opacity(0);
+}
+
+.default-text {
+    margin-top: 1.5rem;
+    color: #ccc;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+form label h1 {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.terminal-wrapper {
+    display: flex;
+    flex-direction: column-reverse;
+}
