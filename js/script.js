@@ -71,7 +71,7 @@ function winfetch(cmdContainer) {
         " <span class=\"logo\">&nbsp;lllllllllllllll&nbsp;&nbsp;lllllllllllllll</span>&nbsp;&nbsp;<span class=\"command\">Uptime</span>: 8 hours 2 minutes<br>" +
         " <span class=\"logo-invisible\">&nbsp;lllllllllllllll&nbsp;&nbsp;lllllllllllllll</span>&nbsp;&nbsp;<span class=\"command\">Packages</span>: 43 (choco)<br>" +
         " <span class=\"logo\">&nbsp;lllllllllllllll&nbsp;&nbsp;lllllllllllllll</span>&nbsp;&nbsp;<span class=\"command\">Shell</span>: PowerShell v5.1.22621.2506<br>" +
-        " <span class=\"logo\">&nbsp;lllllllllllllll&nbsp;&nbsp;lllllllllllllll</span>&nbsp;&nbsp;<span class=\"command\">Resolution</span>: 1920x1080<br>" +
+        " <span class=\"logo\">&nbsp;lllllllllllllll&nbsp;&nbsp;lllllllllllllll</span>&nbsp;&nbsp;<span class=\"command\">Resolution</span>: 1920x1080, 1280x1024<br>" +
         " <span class=\"logo\">&nbsp;lllllllllllllll&nbsp;&nbsp;lllllllllllllll</span>&nbsp;&nbsp;<span class=\"command\">Terminal</span>: Windows Terminal<br>" +
         " <span class=\"logo\">&nbsp;lllllllllllllll&nbsp;&nbsp;lllllllllllllll</span>&nbsp;&nbsp;<span class=\"command\">CPU</span>: AMD Ryzen 7 5700X 8-Core Processor @ 3.394GHz<br>" +
         " <span class=\"logo\">&nbsp;lllllllllllllll&nbsp;&nbsp;lllllllllllllll</span>&nbsp;&nbsp;<span class=\"command\">GPU</span>: NVIDIA GeForce GTX 970<br>" +
